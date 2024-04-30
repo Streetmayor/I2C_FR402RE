@@ -1,5 +1,6 @@
 # I2C_FR402RE
 Zweite Schulaufgabe im Fach Mikrocontroller
+
 I2C Schnittstelle
 
 Für die Umsetzung unseres Projekts benötigen wir zwei Mikrocontroller, die jeweils über mindestens einen SDA (Serial Data Line) und einen SCL (Serial Clock Line) Anschluss sowie fünf GPIO (General Purpose Input/Output) Pins verfügen. Zu diesem Zweck haben wir uns entschieden, zwei STM32 Nucleo-F401RE Boards einzusetzen.
